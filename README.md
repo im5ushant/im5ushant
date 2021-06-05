@@ -1,7 +1,6 @@
 ### Hi there, Sushant this side! 👋
 
 ## 🎓 I'm a B.Tech. Computer Science student at Manipal University Jaipur
-***
 
 - 🔭 I’m currently working on a MERN Stack Project.
 - 🌱 Learning Backend Development and DevOps as of now.
