@@ -7,5 +7,5 @@
 - 👯 I’m looking for an internship related to MERN Stack.
 - 💬 I love to automate things and learn the most cutting edge technologies.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/im5ushant/)
-- ⚡ Fun fact: I love to stimulate both the sides of my brain!!!  
+- ⚡ Fun fact: I love to stimulate both the sides of my brain (Logic + Creative)!!!  
 
